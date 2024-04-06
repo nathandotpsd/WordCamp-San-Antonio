@@ -1,1 +1,19 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: #004551;
+  background-color: #B1DBE8;
+}
 
+p {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  background-color: #B1DBE8;
+  color: #004551;
+}
+
+body {
+  background-color: #B1DBE8;
+  color: #004551;
+}
